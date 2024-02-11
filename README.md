@@ -1,4 +1,4 @@
-Title: AASTU-Elearning
+Title: AASTU E-learning
 
 Group: 1
 
